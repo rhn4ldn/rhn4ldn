@@ -58,16 +58,46 @@ I enjoy turning an idea into a working application and improving it step by step
 
 ---
 
-## 🧠 Currently Exploring
+---
 
-```text
-┌──────────────────────────────────────────────────────────────┐
-│                    CURRENTLY EXPLORING                       │
-├──────────────────────────────────────────────────────────────┤
-│  ▸ Laravel & modern PHP development                        │
-│  ▸ Authentication & Role-Based Access Control              │
-│  ▸ Database design & relationships                         │
-│  ▸ Android development with Java                           │
-│  ▸ UI/UX & responsive interfaces                            │
-│  ▸ Git & collaborative development workflows               │
-└──────────────────────────────────────────────────────────────┘
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<img height="180"
+     src="https://github-readme-stats.vercel.app/api?username=rhn4ldn&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+
+<img height="180"
+     src="https://github-readme-stats.vercel.app/api/top-langs/?username=rhn4ldn&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+
+</div>
+
+---
+
+## 🔥 Contribution Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=rhn4ldn&theme=tokyonight&hide_border=true&background=0D1117" />
+
+</div>
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rhn4ldn&bg_color=0D1117&color=70A5FD&line=70A5FD&point=FFFFFF&area=true&hide_border=true" />
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/rhn4ldn/rhn4ldn/output/github-contribution-grid-snake-dark.svg" />
+
+</div>
