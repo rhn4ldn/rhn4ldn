@@ -18,7 +18,6 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-
       - name: Generate Snake
         uses: Platane/snk@v3
         with:
